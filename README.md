@@ -1,4 +1,7 @@
-### Hi there 👋
+Here is a list of my past projects:
+
+- [CS3103](https://github.com/jonathanwj/CS3103_P2P), NUS P2P Networking Project with NAT handling, written in C++.
+- [CS2103T](https://github.com/jonathanwj/CS2103T-VetterAppointments-F09-B4), NUS Software Engineering project, a Address Book desktop application, written in Java.
 
 <!--
 **jonathanwj/jonathanwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
