@@ -1,5 +1,8 @@
-Here is a list of my past projects:
+Hi, I'm Jonathan
 
+Website: https://jonweng.com
+
+List of my past university projects:
 - [CS3103](https://github.com/jonathanwj/CS3103_P2P), NUS P2P Networking Project with NAT handling, written in C++.
 - [CS2103T](https://github.com/jonathanwj/CS2103T-VetterAppointments-F09-B4), NUS Software Engineering project, a Address Book desktop application, written in Java.
 
