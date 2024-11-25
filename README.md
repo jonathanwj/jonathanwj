@@ -10,7 +10,6 @@ Checkout some of my personal projects below:
 |---|---|
 | [Portfolio](https://jonweng.com) <br> Personal Portfolio with a LLM chatbot  | <img src="https://raw.githubusercontent.com/jonathanwj/jonathanwj/master/images/portfolio.jpg" width="250" >  |
 | [Food Menu Demo](https://food.jonweng.com) <br> A demo app for lazy loading <br> images with blurhash. It's built in Svelte. | <img src="https://raw.githubusercontent.com/jonathanwj/jonathanwj/master/images/food_menu.jpg" width="250" > |
-| [Singapore Food Demo](https://sg-food-infinite.jonweng.com/) <br> A demo app showing infinite<br > scrolling with NextJS server actions.| <img src="https://raw.githubusercontent.com/jonathanwj/jonathanwj/master/images/sg_food.jpg" width="250" >  |
 
 
 
